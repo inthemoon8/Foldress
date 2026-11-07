@@ -1,3 +1,5 @@
+[![Download for Windows](https://img.shields.io/badge/Download-for_Windows-2378c7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/inthemoon8/Foldress/releases/latest/download/FoldressSetup.exe)
+
 # Foldress
 
 Give Windows folders recognizable icons directly from File Explorer's right-click menu.
